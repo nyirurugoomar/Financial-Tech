@@ -24,7 +24,8 @@ a {
   justify-content: space-around;
   height: 16vh;
   background: white;
-  border-bottom: 1px solid black;
+  
+  
   
 }
 .nav__brand {
@@ -81,3 +82,4 @@ a {
 .toggle .line3 {
   transform: rotate(45deg) translate(-4px, -5px);
 }
+

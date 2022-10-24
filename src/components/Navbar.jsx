@@ -15,7 +15,7 @@ function Navbar() {
     } else setIcon("nav__toggler");
   };
   return (
-    <nav className="nav">
+    <nav className="nav drop-shadow-lg">
       <a href="#" className="nav__brand text-black">
         Financial-Tech
       </a>
@@ -33,7 +33,7 @@ function Navbar() {
         
         
         <li className="nav__item">
-          <a href="#" className="nav__link bg-orange-400 px-10 py-3 rounded text-white">
+          <a href="#" className="nav__link bg-orange-600 px-10 py-3 rounded-lg text-white hover:bg-orange-400">
             Login
           </a>
         </li>
