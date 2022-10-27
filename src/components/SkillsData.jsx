@@ -4,7 +4,7 @@ import React from 'react'
 export const SkillsData =[
     {
       label: "Vision and Mission",
-      value: "mision and mission",
+      value: "misionmission",
       desc: `Tristique elit malesuada diam turpis habitant egestas 
       senectus ut congue. Amet vitae et id quam. Ipsum natoque 
       urna dictumst a. Volutpat tincidunt gravida laoreet interdum elementum. 
