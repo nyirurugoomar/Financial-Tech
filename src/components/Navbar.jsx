@@ -16,7 +16,7 @@ function Navbar() {
   };
   return (
     <nav className="nav drop-shadow-lg">
-      <a href="#" className="nav__brand text-black font-serif">
+      <a href="#" className="nav__brand text-black font-serif textbold">
         Financial-Tech
       </a>
       <ul className={active}>

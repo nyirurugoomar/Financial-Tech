@@ -1,35 +1,34 @@
 import React from 'react'
-// import aboutImg from '../assets/Technologies .png';
 
 export const SkillsData =[
     {
-      label: "Vision and Mission",
-      value: "misionmission",
-      desc: `Tristique elit malesuada diam turpis habitant egestas 
-      senectus ut congue. Amet vitae et id quam. Ipsum natoque 
-      urna dictumst a. Volutpat tincidunt gravida laoreet interdum elementum. 
-      Urna lacus, integer nunc leo at eget porttitor egestas at.`,
+      label: "Vision",
+      value: "vision",
+      desc: `Financial-Tech Company aims to be the 
+      leading provider of the most innovative 
+      financial solutions in the region, with 
+      its headquarters in the Rwandan capital, 
+      Rwanda's capital, making it the first 
+      privately-owned Financial in the East and Central 
+      Africa.`,
              
     },
 
     {
-        label: "Core values",
-        value: "core values",
-        desc: `Tristique elit malesuada diam turpis habitant egestas 
-        senectus ut congue. Amet vitae et id quam. Ipsum natoque 
-        urna dictumst a. Volutpat tincidunt gravida laoreet interdum elementum. 
-        Urna lacus, integer nunc leo at eget porttitor egestas at.`,
+        label: "values",
+        value: "values",
+        desc: `Customer focus, Integrity, Quality & Excellence.`,
         
       },
 
       {
-        label: "Strategic Pillars",
-        value: "strategic pillars",
-        desc: `Tristique elit malesuada diam turpis habitant egestas 
-        senectus ut congue. Amet vitae et id quam. Ipsum natoque 
-        urna dictumst a. Volutpat tincidunt gravida laoreet interdum elementum. 
-        Urna lacus, integer nunc leo at eget porttitor egestas at.`,
+        label: "Our mission",
+        value: "ourmission",
+        desc: `Our mission is to be the leader in creating value 
+        for our stakeholders by providing the best financial 
+        services to businesses and individual customers, through 
+        motivated and professional staff.`,
         
-      }
+      },
       
 ]
